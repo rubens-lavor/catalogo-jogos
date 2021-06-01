@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:34919",
-      "sslPort": 44321
+      "applicationUrl": "http://localhost:10467",
+      "sslPort": 44354
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "catalogo_jogos_DIO": {
+    "ExemploApiCatalogoJogos": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

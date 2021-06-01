@@ -1,4 +1,4 @@
-using catalogo_jogos_DIO.InputModel;
+﻿using catalogo_jogos_DIO.InputModel;
 using catalogo_jogos_DIO.ViewModel;
 using System;
 using System.Collections.Generic;
